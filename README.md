@@ -2,6 +2,9 @@
 
 A small utility that supports the creation of basic Laravel Models based on the database structure.
 
+## The reason it exists in this world
+Something that serves Eon's super lazy purpose
+
 ## Installation
 
 Run git clone
